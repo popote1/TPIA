@@ -1,0 +1,5448 @@
+fileFormatVersion: 2
+guid: 556c11a0d9f038b4cbb4aae175d1c42a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8566448555125236148
+    second: pngkey.com-starcraft-png-3319828_0
+  - first:
+      213: 7815825749512404319
+    second: pngkey.com-starcraft-png-3319828_1
+  - first:
+      213: -2298645037574231946
+    second: pngkey.com-starcraft-png-3319828_2
+  - first:
+      213: -2811571277881709577
+    second: pngkey.com-starcraft-png-3319828_3
+  - first:
+      213: 6183505859522505730
+    second: pngkey.com-starcraft-png-3319828_4
+  - first:
+      213: -6996026751621006673
+    second: pngkey.com-starcraft-png-3319828_5
+  - first:
+      213: 7871225771135923352
+    second: pngkey.com-starcraft-png-3319828_6
+  - first:
+      213: -1110784974286784470
+    second: pngkey.com-starcraft-png-3319828_7
+  - first:
+      213: 1487480110833388881
+    second: pngkey.com-starcraft-png-3319828_8
+  - first:
+      213: 9025514215054527416
+    second: pngkey.com-starcraft-png-3319828_9
+  - first:
+      213: 5081395698546961126
+    second: pngkey.com-starcraft-png-3319828_10
+  - first:
+      213: 500807527017324046
+    second: pngkey.com-starcraft-png-3319828_11
+  - first:
+      213: 2358687250256236659
+    second: pngkey.com-starcraft-png-3319828_12
+  - first:
+      213: -5783803732337468698
+    second: pngkey.com-starcraft-png-3319828_13
+  - first:
+      213: 588594342060120728
+    second: pngkey.com-starcraft-png-3319828_14
+  - first:
+      213: 7724525550724472928
+    second: pngkey.com-starcraft-png-3319828_15
+  - first:
+      213: 8822527828332070823
+    second: pngkey.com-starcraft-png-3319828_16
+  - first:
+      213: -4177659282510237583
+    second: pngkey.com-starcraft-png-3319828_17
+  - first:
+      213: -1839534386185275321
+    second: pngkey.com-starcraft-png-3319828_18
+  - first:
+      213: -2307470242960338702
+    second: pngkey.com-starcraft-png-3319828_19
+  - first:
+      213: 8332384685764057758
+    second: pngkey.com-starcraft-png-3319828_20
+  - first:
+      213: 355662034733881540
+    second: pngkey.com-starcraft-png-3319828_21
+  - first:
+      213: -8657006660392696840
+    second: pngkey.com-starcraft-png-3319828_22
+  - first:
+      213: 7887869327672991408
+    second: pngkey.com-starcraft-png-3319828_23
+  - first:
+      213: -9041775785966950123
+    second: pngkey.com-starcraft-png-3319828_24
+  - first:
+      213: 7623491718895460263
+    second: pngkey.com-starcraft-png-3319828_25
+  - first:
+      213: -4811861477053506906
+    second: pngkey.com-starcraft-png-3319828_26
+  - first:
+      213: 1804598625890928828
+    second: pngkey.com-starcraft-png-3319828_27
+  - first:
+      213: -253964995445798975
+    second: pngkey.com-starcraft-png-3319828_28
+  - first:
+      213: -1718298907629974865
+    second: pngkey.com-starcraft-png-3319828_29
+  - first:
+      213: -2286673070326090574
+    second: pngkey.com-starcraft-png-3319828_30
+  - first:
+      213: -1015253838692086995
+    second: pngkey.com-starcraft-png-3319828_31
+  - first:
+      213: 942251557717132085
+    second: pngkey.com-starcraft-png-3319828_32
+  - first:
+      213: 3029965107841236793
+    second: pngkey.com-starcraft-png-3319828_33
+  - first:
+      213: 8788722895996016636
+    second: pngkey.com-starcraft-png-3319828_34
+  - first:
+      213: 2227251722540139613
+    second: pngkey.com-starcraft-png-3319828_35
+  - first:
+      213: 4097576662563728023
+    second: pngkey.com-starcraft-png-3319828_36
+  - first:
+      213: 4202354700947475771
+    second: pngkey.com-starcraft-png-3319828_37
+  - first:
+      213: 4915779287223644463
+    second: pngkey.com-starcraft-png-3319828_38
+  - first:
+      213: -7455728931682660159
+    second: pngkey.com-starcraft-png-3319828_39
+  - first:
+      213: 4563540299443545346
+    second: pngkey.com-starcraft-png-3319828_40
+  - first:
+      213: -2888291564293809469
+    second: pngkey.com-starcraft-png-3319828_41
+  - first:
+      213: -2699500199666620868
+    second: pngkey.com-starcraft-png-3319828_42
+  - first:
+      213: 4485690941585366059
+    second: pngkey.com-starcraft-png-3319828_43
+  - first:
+      213: 1418840421956122551
+    second: pngkey.com-starcraft-png-3319828_44
+  - first:
+      213: -2251618354893825889
+    second: pngkey.com-starcraft-png-3319828_45
+  - first:
+      213: -166094324427629343
+    second: pngkey.com-starcraft-png-3319828_46
+  - first:
+      213: -3195256302006178943
+    second: pngkey.com-starcraft-png-3319828_47
+  - first:
+      213: -9151528440353038334
+    second: pngkey.com-starcraft-png-3319828_48
+  - first:
+      213: -2669038553271586363
+    second: pngkey.com-starcraft-png-3319828_49
+  - first:
+      213: 842461075459986744
+    second: pngkey.com-starcraft-png-3319828_50
+  - first:
+      213: 9138736881634316811
+    second: pngkey.com-starcraft-png-3319828_51
+  - first:
+      213: -5883008507246014582
+    second: pngkey.com-starcraft-png-3319828_52
+  - first:
+      213: -1118397552021719989
+    second: pngkey.com-starcraft-png-3319828_53
+  - first:
+      213: -9156898591833779543
+    second: pngkey.com-starcraft-png-3319828_54
+  - first:
+      213: 2496399517250631456
+    second: pngkey.com-starcraft-png-3319828_55
+  - first:
+      213: -6752044880331140216
+    second: pngkey.com-starcraft-png-3319828_56
+  - first:
+      213: 70961333026430988
+    second: pngkey.com-starcraft-png-3319828_57
+  - first:
+      213: -6558389856381493135
+    second: pngkey.com-starcraft-png-3319828_58
+  - first:
+      213: 1326664646623135094
+    second: pngkey.com-starcraft-png-3319828_59
+  - first:
+      213: -2851323342978318208
+    second: pngkey.com-starcraft-png-3319828_60
+  - first:
+      213: 6667831436150910973
+    second: pngkey.com-starcraft-png-3319828_61
+  - first:
+      213: -4215403934233338960
+    second: pngkey.com-starcraft-png-3319828_62
+  - first:
+      213: -2475586059502175434
+    second: pngkey.com-starcraft-png-3319828_63
+  - first:
+      213: 7004470137296994684
+    second: pngkey.com-starcraft-png-3319828_64
+  - first:
+      213: -4253449934995496044
+    second: pngkey.com-starcraft-png-3319828_65
+  - first:
+      213: 2660346523290957243
+    second: pngkey.com-starcraft-png-3319828_66
+  - first:
+      213: 8184035820250594589
+    second: pngkey.com-starcraft-png-3319828_67
+  - first:
+      213: -8533462993713187984
+    second: pngkey.com-starcraft-png-3319828_68
+  - first:
+      213: -2553950754344079519
+    second: pngkey.com-starcraft-png-3319828_69
+  - first:
+      213: -3442320759929331864
+    second: pngkey.com-starcraft-png-3319828_70
+  - first:
+      213: 3732808318136652712
+    second: pngkey.com-starcraft-png-3319828_71
+  - first:
+      213: -1960425930679418895
+    second: pngkey.com-starcraft-png-3319828_72
+  - first:
+      213: -3161553751380480117
+    second: pngkey.com-starcraft-png-3319828_73
+  - first:
+      213: 337019270464000647
+    second: pngkey.com-starcraft-png-3319828_74
+  - first:
+      213: 8301036442517329765
+    second: pngkey.com-starcraft-png-3319828_75
+  - first:
+      213: -691061405245036945
+    second: pngkey.com-starcraft-png-3319828_76
+  - first:
+      213: 6088926317709197103
+    second: pngkey.com-starcraft-png-3319828_77
+  - first:
+      213: 115115390734532714
+    second: pngkey.com-starcraft-png-3319828_78
+  - first:
+      213: -2364624810078236190
+    second: pngkey.com-starcraft-png-3319828_79
+  - first:
+      213: -1073702623270659922
+    second: pngkey.com-starcraft-png-3319828_80
+  - first:
+      213: -7856758481236619396
+    second: pngkey.com-starcraft-png-3319828_81
+  - first:
+      213: -5762124846780055897
+    second: pngkey.com-starcraft-png-3319828_82
+  - first:
+      213: -6311105037810554409
+    second: pngkey.com-starcraft-png-3319828_83
+  - first:
+      213: -1925582550308634428
+    second: pngkey.com-starcraft-png-3319828_84
+  - first:
+      213: -8828910962899839779
+    second: pngkey.com-starcraft-png-3319828_85
+  - first:
+      213: 2166243864087100362
+    second: pngkey.com-starcraft-png-3319828_86
+  - first:
+      213: 1867262033783212368
+    second: pngkey.com-starcraft-png-3319828_87
+  - first:
+      213: -4676750402307513052
+    second: pngkey.com-starcraft-png-3319828_88
+  - first:
+      213: 185211918396260629
+    second: pngkey.com-starcraft-png-3319828_89
+  - first:
+      213: -3473275606850958966
+    second: pngkey.com-starcraft-png-3319828_90
+  - first:
+      213: 373356879070333808
+    second: pngkey.com-starcraft-png-3319828_91
+  - first:
+      213: -7914307656437999137
+    second: pngkey.com-starcraft-png-3319828_92
+  - first:
+      213: -3357172394534271730
+    second: pngkey.com-starcraft-png-3319828_93
+  - first:
+      213: -1295376023597066480
+    second: pngkey.com-starcraft-png-3319828_94
+  - first:
+      213: -3216907808785241003
+    second: pngkey.com-starcraft-png-3319828_95
+  - first:
+      213: 7040137528529441518
+    second: pngkey.com-starcraft-png-3319828_96
+  - first:
+      213: -1541119048690899684
+    second: pngkey.com-starcraft-png-3319828_97
+  - first:
+      213: 5949250270485899917
+    second: pngkey.com-starcraft-png-3319828_98
+  - first:
+      213: 259800060973647099
+    second: pngkey.com-starcraft-png-3319828_99
+  - first:
+      213: -6522614703061258452
+    second: pngkey.com-starcraft-png-3319828_100
+  - first:
+      213: 5002815167728578265
+    second: pngkey.com-starcraft-png-3319828_101
+  - first:
+      213: 3503372754862388629
+    second: pngkey.com-starcraft-png-3319828_102
+  - first:
+      213: 5259679896592422600
+    second: pngkey.com-starcraft-png-3319828_103
+  - first:
+      213: 6868372792685810177
+    second: pngkey.com-starcraft-png-3319828_104
+  - first:
+      213: -8584346406138186355
+    second: pngkey.com-starcraft-png-3319828_105
+  - first:
+      213: -1701898282423906441
+    second: pngkey.com-starcraft-png-3319828_106
+  - first:
+      213: -848284734812262913
+    second: pngkey.com-starcraft-png-3319828_107
+  - first:
+      213: 1180531597269662811
+    second: pngkey.com-starcraft-png-3319828_108
+  - first:
+      213: -3623605661429076244
+    second: pngkey.com-starcraft-png-3319828_109
+  - first:
+      213: -1669159518479542187
+    second: pngkey.com-starcraft-png-3319828_110
+  - first:
+      213: -1280487063441893129
+    second: pngkey.com-starcraft-png-3319828_111
+  - first:
+      213: -636204877425984897
+    second: pngkey.com-starcraft-png-3319828_112
+  - first:
+      213: 4781199571264351780
+    second: pngkey.com-starcraft-png-3319828_113
+  - first:
+      213: -7498691877791760420
+    second: pngkey.com-starcraft-png-3319828_114
+  - first:
+      213: -6610755637583995845
+    second: pngkey.com-starcraft-png-3319828_115
+  - first:
+      213: -6401958294333637525
+    second: pngkey.com-starcraft-png-3319828_116
+  - first:
+      213: 5407223645390718488
+    second: pngkey.com-starcraft-png-3319828_117
+  - first:
+      213: 4477830581878100714
+    second: pngkey.com-starcraft-png-3319828_118
+  - first:
+      213: -5887893177587771079
+    second: pngkey.com-starcraft-png-3319828_119
+  - first:
+      213: -7077829589942973019
+    second: pngkey.com-starcraft-png-3319828_120
+  - first:
+      213: -4123388891099334845
+    second: pngkey.com-starcraft-png-3319828_121
+  - first:
+      213: 3323490512999952724
+    second: pngkey.com-starcraft-png-3319828_122
+  - first:
+      213: -4862593770687053787
+    second: pngkey.com-starcraft-png-3319828_123
+  - first:
+      213: 9169759650114082517
+    second: pngkey.com-starcraft-png-3319828_124
+  - first:
+      213: -8888368612015118129
+    second: pngkey.com-starcraft-png-3319828_125
+  - first:
+      213: -6929134190061686622
+    second: pngkey.com-starcraft-png-3319828_126
+  - first:
+      213: 7666646748305934203
+    second: pngkey.com-starcraft-png-3319828_127
+  - first:
+      213: -2174039451514107337
+    second: pngkey.com-starcraft-png-3319828_128
+  - first:
+      213: -4538090620860004320
+    second: pngkey.com-starcraft-png-3319828_129
+  - first:
+      213: 5665692049268162551
+    second: pngkey.com-starcraft-png-3319828_130
+  - first:
+      213: 4129480855840124778
+    second: pngkey.com-starcraft-png-3319828_131
+  - first:
+      213: -4782578768784737813
+    second: pngkey.com-starcraft-png-3319828_132
+  - first:
+      213: 4782397588237127597
+    second: pngkey.com-starcraft-png-3319828_133
+  - first:
+      213: 7056625367195549918
+    second: pngkey.com-starcraft-png-3319828_134
+  - first:
+      213: -9160604955498716410
+    second: pngkey.com-starcraft-png-3319828_135
+  - first:
+      213: -7417916813780111286
+    second: pngkey.com-starcraft-png-3319828_136
+  - first:
+      213: -7627898510454914722
+    second: pngkey.com-starcraft-png-3319828_137
+  - first:
+      213: -6347471552422950027
+    second: pngkey.com-starcraft-png-3319828_138
+  - first:
+      213: -5349144391597583086
+    second: pngkey.com-starcraft-png-3319828_139
+  - first:
+      213: -1424714843000432382
+    second: pngkey.com-starcraft-png-3319828_140
+  - first:
+      213: -6338080014089583934
+    second: pngkey.com-starcraft-png-3319828_141
+  - first:
+      213: 5401594946237541730
+    second: pngkey.com-starcraft-png-3319828_142
+  - first:
+      213: 7527145407122402765
+    second: pngkey.com-starcraft-png-3319828_143
+  - first:
+      213: 1490626310403167259
+    second: pngkey.com-starcraft-png-3319828_144
+  - first:
+      213: -4194654877884415857
+    second: pngkey.com-starcraft-png-3319828_145
+  - first:
+      213: -7051224645450743164
+    second: pngkey.com-starcraft-png-3319828_146
+  - first:
+      213: -756982358026509473
+    second: pngkey.com-starcraft-png-3319828_147
+  - first:
+      213: 877863825903349107
+    second: pngkey.com-starcraft-png-3319828_148
+  - first:
+      213: -6343032259579845212
+    second: pngkey.com-starcraft-png-3319828_149
+  - first:
+      213: 494992152443044293
+    second: pngkey.com-starcraft-png-3319828_150
+  - first:
+      213: 753713275930241448
+    second: pngkey.com-starcraft-png-3319828_151
+  - first:
+      213: 2888029161938950912
+    second: pngkey.com-starcraft-png-3319828_152
+  - first:
+      213: -6103939424876826772
+    second: pngkey.com-starcraft-png-3319828_153
+  - first:
+      213: -69167684178962191
+    second: pngkey.com-starcraft-png-3319828_154
+  - first:
+      213: 6734020099255945788
+    second: pngkey.com-starcraft-png-3319828_155
+  - first:
+      213: -1896186649760834228
+    second: pngkey.com-starcraft-png-3319828_156
+  - first:
+      213: 6049310171610351997
+    second: pngkey.com-starcraft-png-3319828_157
+  - first:
+      213: -7025494835952614907
+    second: pngkey.com-starcraft-png-3319828_158
+  - first:
+      213: -3677368981834158235
+    second: pngkey.com-starcraft-png-3319828_159
+  - first:
+      213: -3509283807457631811
+    second: pngkey.com-starcraft-png-3319828_160
+  - first:
+      213: 7451797541476142902
+    second: pngkey.com-starcraft-png-3319828_161
+  - first:
+      213: -6985408595141981671
+    second: pngkey.com-starcraft-png-3319828_162
+  - first:
+      213: 3912333030180148199
+    second: pngkey.com-starcraft-png-3319828_163
+  - first:
+      213: 2943518030617368465
+    second: pngkey.com-starcraft-png-3319828_164
+  - first:
+      213: 5320161413541714030
+    second: pngkey.com-starcraft-png-3319828_165
+  - first:
+      213: -2566370930706089005
+    second: pngkey.com-starcraft-png-3319828_166
+  - first:
+      213: -314902392587774788
+    second: pngkey.com-starcraft-png-3319828_167
+  - first:
+      213: -3612984480518503803
+    second: pngkey.com-starcraft-png-3319828_168
+  - first:
+      213: 8547847752960919279
+    second: pngkey.com-starcraft-png-3319828_169
+  - first:
+      213: 3375688969942520714
+    second: pngkey.com-starcraft-png-3319828_170
+  - first:
+      213: -576479043939265486
+    second: pngkey.com-starcraft-png-3319828_171
+  - first:
+      213: -167520685663919217
+    second: pngkey.com-starcraft-png-3319828_172
+  - first:
+      213: -2809394900064104860
+    second: pngkey.com-starcraft-png-3319828_173
+  - first:
+      213: -3222447531927911220
+    second: pngkey.com-starcraft-png-3319828_174
+  - first:
+      213: 4258955852612349406
+    second: pngkey.com-starcraft-png-3319828_175
+  - first:
+      213: -391159332039874807
+    second: pngkey.com-starcraft-png-3319828_176
+  - first:
+      213: -1694555434974574931
+    second: pngkey.com-starcraft-png-3319828_177
+  - first:
+      213: 8060450590680648485
+    second: pngkey.com-starcraft-png-3319828_178
+  - first:
+      213: -2671910627736131220
+    second: pngkey.com-starcraft-png-3319828_179
+  - first:
+      213: 8525656408805901441
+    second: pngkey.com-starcraft-png-3319828_180
+  - first:
+      213: -6270444956486352671
+    second: pngkey.com-starcraft-png-3319828_181
+  - first:
+      213: -8659528089303499172
+    second: pngkey.com-starcraft-png-3319828_182
+  - first:
+      213: 5400416408287220783
+    second: pngkey.com-starcraft-png-3319828_183
+  - first:
+      213: -1287739100574581279
+    second: pngkey.com-starcraft-png-3319828_184
+  - first:
+      213: 4886244068800632078
+    second: pngkey.com-starcraft-png-3319828_185
+  - first:
+      213: 2239403474688062886
+    second: pngkey.com-starcraft-png-3319828_186
+  - first:
+      213: 3531170722796341505
+    second: pngkey.com-starcraft-png-3319828_187
+  - first:
+      213: -6677041244624186898
+    second: pngkey.com-starcraft-png-3319828_188
+  - first:
+      213: 6650813180017841628
+    second: pngkey.com-starcraft-png-3319828_189
+  - first:
+      213: 89472269540328779
+    second: pngkey.com-starcraft-png-3319828_190
+  - first:
+      213: -2330462706994663060
+    second: pngkey.com-starcraft-png-3319828_191
+  - first:
+      213: 6221596964549244083
+    second: pngkey.com-starcraft-png-3319828_192
+  - first:
+      213: 4851550275661302142
+    second: pngkey.com-starcraft-png-3319828_193
+  - first:
+      213: 5610330699350264126
+    second: pngkey.com-starcraft-png-3319828_194
+  - first:
+      213: 7974377745330174533
+    second: pngkey.com-starcraft-png-3319828_195
+  - first:
+      213: 2618226556003349697
+    second: pngkey.com-starcraft-png-3319828_196
+  - first:
+      213: 5438528584703809987
+    second: pngkey.com-starcraft-png-3319828_197
+  - first:
+      213: 3284716745050185294
+    second: pngkey.com-starcraft-png-3319828_198
+  - first:
+      213: -1420781241030646509
+    second: pngkey.com-starcraft-png-3319828_199
+  - first:
+      213: -565737526937462412
+    second: pngkey.com-starcraft-png-3319828_200
+  - first:
+      213: -3134891449229821153
+    second: pngkey.com-starcraft-png-3319828_201
+  - first:
+      213: 3354601312419155578
+    second: pngkey.com-starcraft-png-3319828_202
+  - first:
+      213: -6464679897158139964
+    second: pngkey.com-starcraft-png-3319828_203
+  - first:
+      213: -3167980120561681028
+    second: pngkey.com-starcraft-png-3319828_204
+  - first:
+      213: -4981460280929986409
+    second: pngkey.com-starcraft-png-3319828_205
+  - first:
+      213: 337784114405440112
+    second: pngkey.com-starcraft-png-3319828_206
+  - first:
+      213: -5087644320821839899
+    second: pngkey.com-starcraft-png-3319828_207
+  - first:
+      213: -853490494097672519
+    second: pngkey.com-starcraft-png-3319828_208
+  - first:
+      213: 7700743828659148756
+    second: pngkey.com-starcraft-png-3319828_209
+  - first:
+      213: -8570151560328954962
+    second: pngkey.com-starcraft-png-3319828_210
+  - first:
+      213: 3988826014569028790
+    second: pngkey.com-starcraft-png-3319828_211
+  - first:
+      213: 3345651587792716464
+    second: pngkey.com-starcraft-png-3319828_235
+  - first:
+      213: -4688057966699782787
+    second: pngkey.com-starcraft-png-3319828_236
+  - first:
+      213: 8652783683166325020
+    second: pngkey.com-starcraft-png-3319828_229
+  - first:
+      213: 4285220771077828517
+    second: pngkey.com-starcraft-png-3319828_230
+  - first:
+      213: -1915420825270655084
+    second: pngkey.com-starcraft-png-3319828_231
+  - first:
+      213: 462328465603088507
+    second: pngkey.com-starcraft-png-3319828_232
+  - first:
+      213: -2537596755555640983
+    second: pngkey.com-starcraft-png-3319828_233
+  - first:
+      213: 1280422324101031841
+    second: pngkey.com-starcraft-png-3319828_234
+  - first:
+      213: 2888855683946459619
+    second: pngkey.com-starcraft-png-3319828_237
+  - first:
+      213: 2285998736170599384
+    second: pngkey.com-starcraft-png-3319828_238
+  - first:
+      213: -5216871025602431713
+    second: pngkey.com-starcraft-png-3319828_239
+  - first:
+      213: 1252716559764210491
+    second: pngkey.com-starcraft-png-3319828_240
+  - first:
+      213: 7302011740869816273
+    second: pngkey.com-starcraft-png-3319828_241
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e1a151d6cdd1980800000000000000
+      internalID: -8566448555125236148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db902fb14677c60800000000000000
+      internalID: 7815825749512404319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6786cae54829910e0800000000000000
+      internalID: -2298645037574231946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6b21b1da4bf8d0800000000000000
+      internalID: -2811571277881709577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca26f41d930d550800000000000000
+      internalID: 6183505859522505730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaff766cbe19ee90800000000000000
+      internalID: -6996026751621006673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f473a2263c3d60800000000000000
+      internalID: 7871225771135923352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287bc973f2b590f0800000000000000
+      internalID: -1110784974286784470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dcea0a74794a410800000000000000
+      internalID: 1487480110833388881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb409ffb51114d70800000000000000
+      internalID: 9025514215054527416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae617277eb48640800000000000000
+      internalID: 5081395698546961126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e95bcdac933f600800000000000000
+      internalID: 500807527017324046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37014c7ae8dbbb020800000000000000
+      internalID: 2358687250256236659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea527b362dcbbfa0800000000000000
+      internalID: -5783803732337468698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5c438f6b1b2800800000000000000
+      internalID: 588594342060120728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 834
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606c55ef07033b60800000000000000
+      internalID: 7724525550724472928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74bbce05aef6a70800000000000000
+      internalID: 8822527828332070823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703d594409f506c0800000000000000
+      internalID: -4177659282510237583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7487f47d839a876e0800000000000000
+      internalID: -1839534386185275321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0909e1a083affd0800000000000000
+      internalID: -2307470242960338702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1fde89b392a370800000000000000
+      internalID: 8332384685764057758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d7687cb09fe400800000000000000
+      internalID: 355662034733881540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f34a152f422cd780800000000000000
+      internalID: -8657006660392696840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed5ae9c57577d60800000000000000
+      internalID: 7887869327672991408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51926baf3d8258280800000000000000
+      internalID: -9041775785966950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af55ecc3551cc960800000000000000
+      internalID: 7623491718895460263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad6df1b75d83db0800000000000000
+      internalID: -4811861477053506906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8036a93e83b0910800000000000000
+      internalID: 1804598625890928828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c115ae2cb97cf0800000000000000
+      internalID: -253964995445798975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa06c85f306728e0800000000000000
+      internalID: -1718298907629974865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f2c535fa1440e0800000000000000
+      internalID: -2286673070326090574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 770
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b08e3430819e1f0800000000000000
+      internalID: -1015253838692086995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c9caaccc831d00800000000000000
+      internalID: 942251557717132085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f74be46399c0a20800000000000000
+      internalID: 3029965107841236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75f25c8e0d7f970800000000000000
+      internalID: 8788722895996016636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c16324a9c8ee10800000000000000
+      internalID: 2227251722540139613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aaa04c3448dd830800000000000000
+      internalID: 4097576662563728023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dca22e553c15a30800000000000000
+      internalID: 4202354700947475771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213031873b583440800000000000000
+      internalID: 4915779287223644463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d37de90ee78890800000000000000
+      internalID: -7455728931682660159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205238249b3f45f30800000000000000
+      internalID: 4563540299443545346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca9286002abae7d0800000000000000
+      internalID: -2888291564293809469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3666c7fed2798ad0800000000000000
+      internalID: -2699500199666620868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c12692520604e30800000000000000
+      internalID: 4485690941585366059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f8afa8dbb0b310800000000000000
+      internalID: 1418840421956122551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ddca2905a0c0e0800000000000000
+      internalID: -2251618354893825889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5849871ae1bdf0800000000000000
+      internalID: -166094324427629343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be790925b28a3d0800000000000000
+      internalID: -3195256302006178943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0003aeea5b5ea0800000000000000
+      internalID: -5883008507246014582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44341a1a57aa70f0800000000000000
+      internalID: -1118397552021719989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2197dfe392ce080800000000000000
+      internalID: -9156898591833779543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273e2b622ef4a220800000000000000
+      internalID: 2496399517250631456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831e5884faeb42a0800000000000000
+      internalID: -6752044880331140216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0024d7d4fa1cf000800000000000000
+      internalID: 70961333026430988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1702bd76c2bebf4a0800000000000000
+      internalID: -6558389856381493135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758a069772496210800000000000000
+      internalID: 1326664646623135094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0808ff9c6801e68d0800000000000000
+      internalID: -2851323342978318208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff25fd0d55e88c50800000000000000
+      internalID: 6667831436150910973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbdc3bb470ef75c0800000000000000
+      internalID: -4215403934233338960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb6785893f4add0800000000000000
+      internalID: -2475586059502175434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c714b658a70e43160800000000000000
+      internalID: 7004470137296994684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936fa2e1d5b8f4c0800000000000000
+      internalID: -4253449934995496044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5f33c51137be420800000000000000
+      internalID: 2660346523290957243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dfb17b739839170800000000000000
+      internalID: 8184035820250594589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b8c39e9c039980800000000000000
+      internalID: -8533462993713187984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fea71025b8e8cd0800000000000000
+      internalID: -2553950754344079519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f957dc18b6a30d0800000000000000
+      internalID: -3442320759929331864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3982953699dc330800000000000000
+      internalID: 3732808318136652712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff7369b00b2bc4e0800000000000000
+      internalID: -1960425930679418895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa9ae1d97ef14d0800000000000000
+      internalID: -3161553751380480117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d77aad355da400800000000000000
+      internalID: 337019270464000647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56751d7e9a4333370800000000000000
+      internalID: 8301036442517329765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662366305bd866f0800000000000000
+      internalID: -691061405245036945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7596b936308450800000000000000
+      internalID: 6088926317709197103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6089e486d8f89100800000000000000
+      internalID: 115115390734532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_79
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11638734a2f2fd0800000000000000
+      internalID: -2364624810078236190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea81c8127217911f0800000000000000
+      internalID: -1073702623270659922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_81
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8ad7c9cf27f290800000000000000
+      internalID: -7856758481236619396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef83c1bf1d800b0800000000000000
+      internalID: -5762124846780055897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9af11e7637a68a0800000000000000
+      internalID: -6311105037810554409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c9276fd4f645e0800000000000000
+      internalID: -1925582550308634428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49dceb148697580800000000000000
+      internalID: -8828910962899839779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf7cf215b001e10800000000000000
+      internalID: 2166243864087100362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c8323de8d9e910800000000000000
+      internalID: 1867262033783212368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ab4f9948d81fb0800000000000000
+      internalID: -4676750402307513052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118d2c2241029200800000000000000
+      internalID: 185211918396260629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898e9edc327ccfc0800000000000000
+      internalID: -3473275606850958966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b8f677a1e6e2500800000000000000
+      internalID: 373356879070333808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9dbd64e1bba2290800000000000000
+      internalID: -7914307656437999137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0589068e7de861d0800000000000000
+      internalID: -3357172394534271730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01750f6ae56e50ee0800000000000000
+      internalID: -1295376023597066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_95
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cec2e446f3b53d0800000000000000
+      internalID: -3216907808785241003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d4ed28c793b160800000000000000
+      internalID: 7040137528529441518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_97
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e032f368dc9ae0800000000000000
+      internalID: -1541119048690899684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_98
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a653cb99bff8250800000000000000
+      internalID: 5949250270485899917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_99
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf485fa67cefa9300800000000000000
+      internalID: 259800060973647099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2b416c740b75a0800000000000000
+      internalID: -6522614703061258452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee56593e19d6540800000000000000
+      internalID: 5002815167728578265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ba5975fa7e9030800000000000000
+      internalID: 3503372754862388629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c697acbff22ef840800000000000000
+      internalID: 5259679896592422600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102defc2aac515f50800000000000000
+      internalID: 6868372792685810177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857b39ec664ed880800000000000000
+      internalID: -8584346406138186355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f86487784a168e0800000000000000
+      internalID: -1701898282423906441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde02137894a34f0800000000000000
+      internalID: -848284734812262913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf165ab37126010800000000000000
+      internalID: 1180531597269662811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_109
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeec6089dd56bdc0800000000000000
+      internalID: -3623605661429076244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589093f244f5d8e0800000000000000
+      internalID: -1669159518479542187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_111
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f81014dccbca3ee0800000000000000
+      internalID: -1280487063441893129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a37a4e80fbb27f0800000000000000
+      internalID: -636204877425984897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e267d9dab3a5240800000000000000
+      internalID: 4781199571264351780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_114
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf7d18877b4fe790800000000000000
+      internalID: -7498691877791760420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c15ecd5c0e144a0800000000000000
+      internalID: -6610755637583995845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cb06fa9dca727a0800000000000000
+      internalID: -6401958294333637525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164b9cb1415a0b40800000000000000
+      internalID: 5407223645390718488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2993d8033742e30800000000000000
+      internalID: 4477830581878100714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9395f62b9500a4ea0800000000000000
+      internalID: -5887893177587771079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad43b6ec7f76cd90800000000000000
+      internalID: -7077829589942973019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3477b3376a7c6c6c0800000000000000
+      internalID: -4123388891099334845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4513eb153096f1e20800000000000000
+      internalID: 3323490512999952724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_123
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520cb2b8ab8948cb0800000000000000
+      internalID: -4862593770687053787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d692cc71d7814f70800000000000000
+      internalID: 9169759650114082517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86b1807db26a480800000000000000
+      internalID: -8888368612015118129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_126
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0fb509a25c6df90800000000000000
+      internalID: -6929134190061686622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_127
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77cd231996656a60800000000000000
+      internalID: 7666646748305934203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_128
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a01dc23a244d1e0800000000000000
+      internalID: -2174039451514107337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_129
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288b19cf967501c0800000000000000
+      internalID: -4538090620860004320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_130
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff326396e490ae40800000000000000
+      internalID: 5665692049268162551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_131
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f602f95fcde4930800000000000000
+      internalID: 4129480855840124778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b240f2fdd0adb0800000000000000
+      internalID: -4782578768784737813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0f8da44d7e5240800000000000000
+      internalID: 4782397588237127597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed083b4426b2ee160800000000000000
+      internalID: 7056625367195549918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e0d3f35efed080800000000000000
+      internalID: -9160604955498716410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a403d3da5f34e0990800000000000000
+      internalID: -7417916813780111286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518a9518b2442690800000000000000
+      internalID: -7627898510454914722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bceefd04049e7a0800000000000000
+      internalID: -6347471552422950027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159d8e448504c5b0800000000000000
+      internalID: -5349144391597583086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099bb416656a3ce0800000000000000
+      internalID: -1424714843000432382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2003acecd9a08a0800000000000000
+      internalID: -6338080014089583934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da8071cf156fa40800000000000000
+      internalID: 5401594946237541730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_143
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6e340edac57860800000000000000
+      internalID: 7527145407122402765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_144
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b149e6c4bb4cfa410800000000000000
+      internalID: 1490626310403167259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_145
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f800750ec9799c5c0800000000000000
+      internalID: -4194654877884415857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_146
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482cd604b84052e90800000000000000
+      internalID: -7051224645450743164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_147
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a7985e88ae75f0800000000000000
+      internalID: -756982358026509473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6220af7cce2c00800000000000000
+      internalID: 877863825903349107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a566e844c509f7a0800000000000000
+      internalID: -6343032259579845212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c149f47db09ed600800000000000000
+      internalID: 494992152443044293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9615a2b3ab57a00800000000000000
+      internalID: 753713275930241448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b175aa837541820800000000000000
+      internalID: 2888029161938950912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fe6b1ee637a4ba0800000000000000
+      internalID: -6103939424876826772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f893929b544a0ff0800000000000000
+      internalID: -69167684178962191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_155
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acd761a9b047d50800000000000000
+      internalID: 6734020099255945788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dda29d9446fa5e0800000000000000
+      internalID: -1896186649760834228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_157
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790efaec8773f350800000000000000
+      internalID: 6049310171610351997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_158
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50204bb5bad608e90800000000000000
+      internalID: -7025494835952614907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_159
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2cb1056c57fcc0800000000000000
+      internalID: -3677368981834158235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_160
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1257858f48c4fc0800000000000000
+      internalID: -3509283807457631811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f80d5f16a1a6760800000000000000
+      internalID: 7451797541476142902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a0a9b94e7de0f90800000000000000
+      internalID: -6985408595141981671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_163
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e35aea99266b4630800000000000000
+      internalID: 3912333030180148199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d7ecad0a79d820800000000000000
+      internalID: 2943518030617368465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d4e14e9205d940800000000000000
+      internalID: 5320161413541714030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbff595c3b626cd0800000000000000
+      internalID: -2566370930706089005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_167
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb492ee31fd31abf0800000000000000
+      internalID: -314902392587774788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58202b3e1c91cddc0800000000000000
+      internalID: -3612984480518503803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_169
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64b5d2e3e00a670800000000000000
+      internalID: 8547847752960919279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83d0a5ab3bd8de20800000000000000
+      internalID: 3375688969942520714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_171
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2341b852d5feff7f0800000000000000
+      internalID: -576479043939265486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_172
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83e87ee2d8dcadf0800000000000000
+      internalID: -167520685663919217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e82e329360309d0800000000000000
+      internalID: -2809394900064104860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_174
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc44a100b019743d0800000000000000
+      internalID: -3222447531927911220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_175
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda70578c9da1b30800000000000000
+      internalID: 4258955852612349406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_176
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072f23f8a2529af0800000000000000
+      internalID: -391159332039874807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_177
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6022e5fcabb78e0800000000000000
+      internalID: -1694555434974574931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_178
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b8b1b2b197cdf60800000000000000
+      internalID: 8060450590680648485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_179
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696232c0777bead0800000000000000
+      internalID: -2671910627736131220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18488eb3557315670800000000000000
+      internalID: 8525656408805901441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cdf8c887eaf8a0800000000000000
+      internalID: -6270444956486352671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e3c8a351d23d780800000000000000
+      internalID: -8659528089303499172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2496275c1222fa40800000000000000
+      internalID: 5400416408287220783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edfeda5c18012ee0800000000000000
+      internalID: -1287739100574581279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0598b6971d6fc340800000000000000
+      internalID: 4886244068800632078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5be896895f31f10800000000000000
+      internalID: 2239403474688062886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109098d301d310130800000000000000
+      internalID: 3531170722796341505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11b8f4d526653a0800000000000000
+      internalID: -6677041244624186898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_189
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51376895f6c4c50800000000000000
+      internalID: 6650813180017841628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_190
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45033b1e8edd3100800000000000000
+      internalID: 89472269540328779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_191
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b94be38888afd0800000000000000
+      internalID: -2330462706994663060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_192
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43b9fc97d875650800000000000000
+      internalID: 6221596964549244083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_193
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e798db6654b245340800000000000000
+      internalID: 4851550275661302142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_194
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39cd37db06ebdd40800000000000000
+      internalID: 5610330699350264126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_195
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7f2f2f4eaaae60800000000000000
+      internalID: 7974377745330174533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f2144e2fc55420800000000000000
+      internalID: 2618226556003349697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c91418eee8897b40800000000000000
+      internalID: 5438528584703809987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5e78f978a59d20800000000000000
+      internalID: 3284716745050185294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31564d82dfe584ce0800000000000000
+      internalID: -1420781241030646509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479d8c677b81628f0800000000000000
+      internalID: -565737526937462412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b3f3716d0ae74d0800000000000000
+      internalID: -3134891449229821153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e8dc5ce10fd8e20800000000000000
+      internalID: 3354601312419155578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb74782e7d846a0800000000000000
+      internalID: -6464679897158139964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_204
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dfb627dd21904d0800000000000000
+      internalID: -3167980120561681028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_205
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985374744c4edab0800000000000000
+      internalID: -4981460280929986409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_206
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af7e5ccdc00b400800000000000000
+      internalID: 337784114405440112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_207
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e771e9127e0569b0800000000000000
+      internalID: -5087644320821839899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_208
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b228eaeac724f0800000000000000
+      internalID: -853490494097672519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_209
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7928d36b98eda60800000000000000
+      internalID: 7700743828659148756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_210
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab355fff84b01980800000000000000
+      internalID: -8570151560328954962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_211
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc593560282b5730800000000000000
+      internalID: 3988826014569028790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_235
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 450
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24b90a4642e6e20800000000000000
+      internalID: 3345651587792716464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_236
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 386
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5b602e1ca0feb0800000000000000
+      internalID: -4688057966699782787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_229
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 513
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19cc695aecd41870800000000000000
+      internalID: 8652783683166325020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_230
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 577
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af28345699287b30800000000000000
+      internalID: 4285220771077828517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_231
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 641
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976b5268ee0b65e0800000000000000
+      internalID: -1915420825270655084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_232
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 705
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d2d93a458a6600800000000000000
+      internalID: 462328465603088507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_233
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 770
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9691ce11235a8ccd0800000000000000
+      internalID: -2537596755555640983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_234
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 834
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a58ed159f4c110800000000000000
+      internalID: 1280422324101031841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_237
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 322
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e13ff050f6471820800000000000000
+      internalID: 2888855683946459619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_238
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 258
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c0722dbf79bf10800000000000000
+      internalID: 2285998736170599384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_239
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 194
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1570ff3173f997b0800000000000000
+      internalID: -5216871025602431713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_240
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 130
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33cefce21b826110800000000000000
+      internalID: 1252716559764210491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-starcraft-png-3319828_241
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 66
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe6489df4f55560800000000000000
+      internalID: 7302011740869816273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

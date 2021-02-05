@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17256c5e-ef1a-4346-9900-2b56175f183a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/BroodMotherFSM.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/SOAnimationHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/blotSFM/BFSM_SetDestination.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/SpriteLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/IndividualSondManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/CharacherController3DTopDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/DamagableComponente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/CameraFollowing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripte/TourelleFSM.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripte/MoveOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Autodestoy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/EffectAciver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/ManiumationHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/SOAnimationHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/SpriteAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/SpriteLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/blotSFM/BFSM_SetDestination.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/TopDownController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/CameraFollowing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/CharacherController3DTopDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/BroodMotherFSM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/CollisionDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/BullrtScripte.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/TourelleFSM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/ScripteFSM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/FeedBackManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/IndividualSondManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripte/DamagableComponente.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nxreqnhwjXf0OxYOiFAJj0URGS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17256c5e-ef1a-4346-9900-2b56175f183a" name="Default Changelist" comment="" />
+      <created>1612342685438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612342685438</updated>
+      <workItem from="1612342700467" duration="12726000" />
+      <workItem from="1612373632562" duration="8899000" />
+      <workItem from="1612426903444" duration="5971000" />
+      <workItem from="1612451348646" duration="5770000" />
+      <workItem from="1612460019286" duration="10387000" />
+      <workItem from="1612481572978" duration="1237000" />
+      <workItem from="1612509961493" duration="1593000" />
+      <workItem from="1612513055511" duration="19998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2170" y="-358" key="RiderGenerateDialog" timestamp="1612343032712">
+      <screen x="1920" y="-1008" width="1080" height="1920" />
+    </state>
+    <state x="2170" y="-358" key="RiderGenerateDialog/0.0.1920.1080/1920.-1008.1080.1920/-1920.-177.1920.1080@1920.-1008.1080.1920" timestamp="1612343032712" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1612520367399">
+      <screen x="1920" y="-1008" width="1080" height="1920" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080/-1920.-177.1920.1080/1920.-1008.1080.1920@1920.-1008.1080.1920" timestamp="1612520367399" />
+    <state x="2123" y="-563" width="672" height="678" key="search.everywhere.popup" timestamp="1612520723140">
+      <screen x="1920" y="-1008" width="1080" height="1920" />
+    </state>
+    <state x="2123" y="-563" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.-177.1920.1080/1920.-1008.1080.1920@1920.-1008.1080.1920" timestamp="1612520723140" />
+  </component>
+</project>
